@@ -44,8 +44,15 @@ public class Boton : MonoBehaviour
         Texto_nuevo = Texto_nuevo.Replace( "${}" ," ");
         Texto_nuevo = Texto_nuevo.Replace(",","  ");
         Texto_nuevo = Texto_nuevo.Replace(":", ":  ");
- 
-
+        Texto_nuevo = Texto_nuevo.Replace(@"""", "");
+        Texto_nuevo = Texto_nuevo.Replace("id:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("nombre:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("actor:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("valor:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("funcionabilidad:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("diferencia:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("mejora:", " ");
+        Texto_nuevo = Texto_nuevo.Replace("cliente:", " ");
         textoPanel.text = Texto_nuevo;
     }
 }

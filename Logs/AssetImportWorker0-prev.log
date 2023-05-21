@@ -15,11 +15,11 @@ C:/Users/Usuario/pantalla
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64045
+53095
 Successfully changed project path to: C:/Users/Usuario/pantalla
 C:/Users/Usuario/pantalla
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 66.01 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 55.70 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path D:/Unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -35,199 +35,239 @@ Initialize mono
 Mono path[0] = 'D:/Unity/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002887 seconds.
+Registered in 0.028713 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 54.66 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 58.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in 24.318 seconds
+- Completed reload, in  8.707 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000969 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.663 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.34 seconds
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.3 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1560.
-Total: 2.188200 ms (FindLiveObjects: 0.121400 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.943900 ms  DeleteObjects: 0.086900 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cc702fc92368cc54da9552a4da1e17') in 0.135474 seconds
-  Import took 0.139374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.115994 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83579c7fbe2ded4c0e319a3ea8e4639d') in 0.010873 seconds
-  Import took 0.016973 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.465729 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b80e50983312dc724cec49452e06b58') in 0.010485 seconds
-  Import took 0.014703 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.898205 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd554baa7d7cff6a317df8636cd1d149d') in 0.008046 seconds
-  Import took 0.012619 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.069424 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e775bf84523300e731ed6f8c9b8c1cfc') in 0.009241 seconds
-  Import took 0.014563 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001440 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.350 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1565.
-Total: 1.769700 ms (FindLiveObjects: 0.176900 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.485800 ms  DeleteObjects: 0.068500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 61.710200 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8816f6a337249ddcf3ed36c070d103c0') in 0.068979 seconds
-  Import took 0.073206 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.984424 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5700a21c29ed142cfea0d7b04e98de2') in 0.006333 seconds
-  Import took 0.010313 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.818404 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002862d35dc9a9f9390fc7db25d716bc') in 0.006138 seconds
-  Import took 0.009302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.505201 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e641583c7e9826365a0b0d4e97a2191') in 0.007190 seconds
-  Import took 0.012764 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.509085 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c7e70c1c2bd91d3f00c8e96f8622f4') in 0.008711 seconds
-  Import took 0.013253 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.215660 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aaaf9575101489a2b5391db40054282') in 0.006553 seconds
-  Import took 0.009920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.002523 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb0f3848d39546b7a3b8f7f5e908079') in 0.006035 seconds
-  Import took 0.009753 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.254523 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a49e664d04db30463f1fa21ff4c6bf7') in 0.007123 seconds
-  Import took 0.010377 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.412177 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29fe12e54abddf9fccc6c824056f71e') in 0.005803 seconds
-  Import took 0.008619 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001427 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.153 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1568.
-Total: 2.527600 ms (FindLiveObjects: 0.147800 ms CreateObjectMapping: 0.033400 ms MarkObjects: 2.278200 ms  DeleteObjects: 0.066500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000960 seconds.
+Registered in 0.002851 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.496 seconds
+- Completed reload, in  1.491 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.32 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1560.
+Total: 3.366600 ms (FindLiveObjects: 0.182300 ms CreateObjectMapping: 0.065100 ms MarkObjects: 2.951900 ms  DeleteObjects: 0.165800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85687bf009a511c1d93a3953f881db8') in 0.241278 seconds
+  Import took 0.246582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.098555 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e9ce518e63aef8b355823173bbeb56') in 0.006139 seconds
+  Import took 0.009827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.476885 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce8599d0c875b3762efa6cde2956fb4') in 0.009746 seconds
+  Import took 0.015370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.036100 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de509c84ba62ae7ad099d945790e625') in 0.007916 seconds
+  Import took 0.014476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.509762 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc9385e9b1fbf9a985080233f73330c') in 0.005322 seconds
+  Import took 0.008797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.678544 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee401cea0247bb6dc5838d9db8af5372') in 0.005030 seconds
+  Import took 0.009660 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 1.651300 ms (FindLiveObjects: 0.122600 ms CreateObjectMapping: 0.158300 ms MarkObjects: 1.285800 ms  DeleteObjects: 0.083500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.797588 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfd39fc5401048432d49c946c1afa90') in 0.069974 seconds
+  Import took 0.073895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.715073 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1224a0f4d469d7a1dd857eb56306c33f') in 0.008617 seconds
+  Import took 0.012984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.434878 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdafb05ab25b573aa470a552c07dcce') in 0.008431 seconds
+  Import took 0.014227 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.485 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 2.881300 ms (FindLiveObjects: 0.239000 ms CreateObjectMapping: 0.044400 ms MarkObjects: 2.514400 ms  DeleteObjects: 0.082000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.984486 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c063fe7172eb121488ef74cb6baf3bda') in 0.087153 seconds
+  Import took 0.091181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.531048 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe26f9174c0fa25bf6427e1cacdcbf3') in 0.008986 seconds
+  Import took 0.014311 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 2.856200 ms (FindLiveObjects: 0.313900 ms CreateObjectMapping: 0.092600 ms MarkObjects: 2.331000 ms  DeleteObjects: 0.116400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.768273 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7b0a4b0472140cf7c02fb08021540b') in 0.081822 seconds
+  Import took 0.089523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.000540 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e103da1a103ce82ec38da69035bedc5') in 0.008582 seconds
+  Import took 0.014609 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.392 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 4.409200 ms (FindLiveObjects: 0.120400 ms CreateObjectMapping: 0.030400 ms MarkObjects: 3.962700 ms  DeleteObjects: 0.293900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.060220 seconds.
+  path: Assets/Prefab/PantallaEpicas.prefab
+  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094c30c8baebc98b140bcd094e6a8843') in 0.085799 seconds
+  Import took 0.090225 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001167 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.347 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -235,219 +275,27 @@ Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 57.3 MB.
 System memory in use after: 57.4 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
-Total: 1.912000 ms (FindLiveObjects: 0.155100 ms CreateObjectMapping: 0.039000 ms MarkObjects: 1.655700 ms  DeleteObjects: 0.061000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 43.950344 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19985b9c931f60905d5710a1f9f446aa') in 0.083706 seconds
-  Import took 0.088109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 28.024492 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f0d489fdba119003a2f862a8cb00fa') in 0.008672 seconds
-  Import took 0.014166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.426087 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ed9aa3644d2155dfdc9e8204d3a1e6') in 0.010129 seconds
-  Import took 0.014800 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.666133 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c655665dbc5ed125154c7e04f8ee16') in 0.009521 seconds
-  Import took 0.013963 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001190 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.439 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1574.
-Total: 2.112600 ms (FindLiveObjects: 0.198400 ms CreateObjectMapping: 0.122200 ms MarkObjects: 1.695500 ms  DeleteObjects: 0.095200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 128.255443 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c971db6da6373523ef4dd8c8db1991c7') in 0.060493 seconds
-  Import took 0.063771 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.810319 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01219d51b0e04cac92fc61565468b2f') in 0.005567 seconds
-  Import took 0.008246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.426360 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a57bef4a9d1ddeddf606fe2c4c594a9') in 0.005383 seconds
-  Import took 0.008888 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.853305 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa406139f9cd3a2c2a5bacefba8d09d8') in 0.007422 seconds
-  Import took 0.011348 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000928 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.294 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1577.
-Total: 2.394900 ms (FindLiveObjects: 0.132500 ms CreateObjectMapping: 0.033900 ms MarkObjects: 2.143900 ms  DeleteObjects: 0.083200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 100.917903 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f088f658dc91b216b9d13dd5eb14d08') in 0.067572 seconds
-  Import took 0.072234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.404110 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da8218dc619fee4232ad1f1d564ca04') in 0.006036 seconds
-  Import took 0.010709 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.630250 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e14570506de951e30daf436fcaf139') in 0.006925 seconds
-  Import took 0.011289 seconds .
+Total: 1.895500 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.067900 ms MarkObjects: 1.539300 ms  DeleteObjects: 0.109600 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002211 seconds.
+Registered in 0.002167 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.486 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.288 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.4 MB.
+System memory in use before: 57.3 MB.
 System memory in use after: 57.4 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1580.
-Total: 2.025500 ms (FindLiveObjects: 0.259500 ms CreateObjectMapping: 0.066600 ms MarkObjects: 1.618500 ms  DeleteObjects: 0.079800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.944905 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97c5e9b83d610d7e31f1bd90d2871ea7') in 0.080608 seconds
-  Import took 0.084516 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.266819 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6af408d78fc821e368cd531a53cb1dc') in 0.005450 seconds
-  Import took 0.009338 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.221587 seconds.
-  path: Assets/Prefab/PantallaEpicas.prefab
-  artifactKey: Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefab/PantallaEpicas.prefab using Guid(08933192a93c4644fbccd6197c11376e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46267656c9ca9275e8bfd75fb906b14') in 0.008837 seconds
-  Import took 0.012797 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001252 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.193 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.4 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1583.
-Total: 2.840500 ms (FindLiveObjects: 0.285600 ms CreateObjectMapping: 0.055400 ms MarkObjects: 2.387600 ms  DeleteObjects: 0.110100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001340 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.784 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.4 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1586.
-Total: 3.943600 ms (FindLiveObjects: 0.302900 ms CreateObjectMapping: 0.077700 ms MarkObjects: 3.328200 ms  DeleteObjects: 0.226500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 3.135900 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.030900 ms MarkObjects: 2.792500 ms  DeleteObjects: 0.124400 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
